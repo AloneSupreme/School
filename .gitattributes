@@ -1,2 +1,2 @@
-+*.C linguist-language=C#
-+*.H linguist-language=C#
++*.JS linguist-language=C#
++*.Html linguist-language=C#
